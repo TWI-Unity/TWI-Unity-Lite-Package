@@ -1,0 +1,17 @@
+{
+    "name": "twi.unity.lite.editor",
+    "references": [
+        "twi.unity.lite",
+        "Unity.EditorCoroutines.Editor"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": []
+}
